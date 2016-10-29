@@ -1,0 +1,28 @@
+@model IEnumerable<Contact>
+@{
+    ViewData["Title"] = "Contact List";
+}
+<a asp-action="Create" class="btn btn-primary pull-right">Create New Contact</a>
+<h1>Contacts</h1>
+<hr>
+<div class="row">
+    <div class="col-md-12">
+    @foreach(var contact in Model) 
+    {
+        <div class="panel panel-default">
+            <div class="panel-heading clearfix">
+                <strong><a asp-action="Edit" asp-route-id="@contact.Id">@contact.FirstName @contact.LastName</a></strong>
+                <a asp-action="Delete" asp-route-id="@contact.Id" class="btn btn-default pull-right">
+                    <span class="glyphicon glyphicon-trash" area-hidden="true"></span>
+                </a>
+            </div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <li class="list-group-item"><label asp-for="@contact.PhoneNumber"></label>: @contact.PhoneNumber</li>
+                    <li class="list-group-item"><label asp-for="@contact.EmailAddress"></label>: @contact.EmailAddress</li>
+                </ul>
+            </div>
+        </div>
+    }
+    </div>
+</div>

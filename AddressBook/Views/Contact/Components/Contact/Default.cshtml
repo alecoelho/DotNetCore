@@ -1,0 +1,16 @@
+@model Contact
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <strong><a asp-action="Edit" asp-route-id="@Model.Id">@Model.FirstName @Model.LastName/a></strong>
+        <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-default pull-right">
+            <span class="glyphicon glyphicon-trash" area-hidden="true"></span>
+        </a>        
+    </div>
+    <div class="panel-body">
+        <ul class="list-group">
+            <li class="list-group-item"><label asp-for="@Model.PhoneNumber"></label>: @Model.PhoneNumber</li>
+            <li class="list-group-item"><label asp-for="@Model.EmailAddress"></label>: @Model.EmailAddress</li>
+        </ul>
+    </div>
+</div>
