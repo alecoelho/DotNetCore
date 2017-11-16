@@ -1,0 +1,9 @@
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.deps.json
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.csprojResolveAssemblyReference.cache
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\Eventos.IO.Infra.CrossCutting.Bus.pdb

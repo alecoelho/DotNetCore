@@ -1,0 +1,9 @@
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard1.6\Eventos.IO.Domain.deps.json
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard1.6\Eventos.IO.Domain.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard1.6\Eventos.IO.Domain.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard1.6\Eventos.IO.Domain.Core.pdb
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard1.6\Eventos.IO.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard1.6\Eventos.IO.Domain.AssemblyInfo.cs
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard1.6\Eventos.IO.Domain.dll
+C:\Users\Alessandro\Documents\Visual Studio 2015\Projects\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard1.6\Eventos.IO.Domain.pdb
