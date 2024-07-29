@@ -1,8 +1,8 @@
-﻿using System;
-using Eventos.IO.Domain.Core.Bus;
-using Eventos.IO.Domain.Core.Commands;
-using Eventos.IO.Domain.Core.Events;
-using Eventos.IO.Domain.Core.Notifications;
+﻿using System.Threading.Tasks;
+using FluentValidation.Results;
+using MediatR;
+using NetDevPack.Mediator;
+using NetDevPack.Messaging;
 
 namespace Eventos.IO.Infra.CrossCutting.Bus
 {
